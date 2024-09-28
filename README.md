@@ -29,8 +29,9 @@ I'm a passionate web developer with a focus on backend development. Below, you'l
 A simple project that allows students to register and view their information in a table.  
 - [View Code](https://github.com/Mouhamed-Talibi/registration)
 
-### 2. **Books Store** *(Work in progress!)*  
-An online bookstore where the admin can insert and modify products, while users can browse products and choose quantities.
+### 2. **Books Store**  
+An online bookstore where the admin can insert and modify products, while users can browse products, valid their orders, delete their orders.  
+- [View Code](https://github.com/Mouhamed-Talibi/Books-Store/tree/master)
 
 ---
 
@@ -47,5 +48,5 @@ I’m currently expanding my knowledge in backend development:
 
 - **Email**: [mouhamedtalibi.45@gmail.com](mailto:mouhamedtalibi.45@gmail.com)  
 - **GitHub**: [Mouhamed-Talibi](https://github.com/Mouhamed-Talibi)  
-- **Instagram**: [Progress Pioneer](https://instagram.com/your_username)
+- **Instagram**: [Progress Pioneer](https://instagram.com/progress_pionner)
 
