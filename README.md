@@ -37,10 +37,11 @@ An online bookstore where the admin can insert and modify products, while users 
 
 ## Learning
 
-I’m currently expanding my knowledge in backend development:  
-- Advanced PHP (Laravel)  
-- Advanced Git/GitHub commands  
-- Advanced MySQL
+I’m currently expanding my knowledge in backend development:
+  - Laravel
+  - REST API
+  - Xdebug
+  - Unit Testing
 
 ---
 
@@ -48,5 +49,5 @@ I’m currently expanding my knowledge in backend development:
 
 - **Email**: [mouhamedtalibi.45@gmail.com](mailto:mouhamedtalibi.45@gmail.com)  
 - **GitHub**: [Mouhamed-Talibi](https://github.com/Mouhamed-Talibi)  
-- **Instagram**: [Progress Pioneer](https://instagram.com/progress_pionner)
+- **Instagram**: [Creative Code Craft](https://instagram.com/creative_code_craft)
 
