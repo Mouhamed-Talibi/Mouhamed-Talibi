@@ -25,13 +25,13 @@ I'm a passionate web developer with a focus on backend development. Below, you'l
 
 ## Projects
 
-### 1. **Students Registration**  
-A simple project that allows students to register and view their information in a table.  
-- [View Code](https://github.com/Mouhamed-Talibi/registration)
+### 1. **Ecommerce App**  
+- [View Code](https://github.com/Mouhamed-Talibi/Ecommerce-Website)
 
-### 2. **Books Store**  
-An online bookstore where the admin can insert and modify products, while users can browse products, valid their orders, delete their orders.  
-- [View Code](https://github.com/Mouhamed-Talibi/Books-Store/tree/master)
+---
+
+### 2. **Blog App**  
+- [View Code](https://github.com/Mouhamed-Talibi/Blog)
 
 ---
 
