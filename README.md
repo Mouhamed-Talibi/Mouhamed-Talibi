@@ -49,5 +49,5 @@ I’m currently expanding my knowledge in backend development:
 
 - **Email**: [mouhamedtalibi.45@gmail.com](mailto:mouhamedtalibi.45@gmail.com)  
 - **GitHub**: [Mouhamed-Talibi](https://github.com/Mouhamed-Talibi)  
-- **Instagram**: [Creative Code Craft](https://instagram.com/creative_code_craft)
+- **Instagram**: [Creative Code Craft](https://instagram.com/easy.code_)
 
