@@ -54,7 +54,7 @@ I’m constantly pushing myself to learn and implement cutting-edge technologies
 
 - **Email**: [mouhamedtalibi.45@gmail.com](mailto:mouhamedtalibi.45@gmail.com)  
 - **GitHub**: [Mouhamed-Talibi](https://github.com/Mouhamed-Talibi)  
-- **Instagram**: [Creative Code Craft](https://instagram.com/easy.code_)  
+- **Instagram**: [Easy code](https://instagram.com/easy.code_)  
 
 ---
 
