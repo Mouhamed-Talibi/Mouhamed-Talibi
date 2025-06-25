@@ -1,6 +1,6 @@
 # 👨‍💻 Mouhamed Talibi | Backend Developer  
 
-🚀 **19 y/o Backend Developer | Problem Solver | Tech Enthusiast**  
+🚀 ** Backend Developer | Problem Solver | Tech Enthusiast**  
 📍 Based in Morocco | Building scalable solutions with PHP & Laravel  
 
 ---
