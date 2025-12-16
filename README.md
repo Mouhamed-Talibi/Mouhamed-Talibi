@@ -31,22 +31,6 @@ I'm a passionate **Backend Developer** with a strong focus on logical problem-so
 
 ---
 
-## 🚀 **Featured Projects**  
-
-### 1. 🛒 [E-Commerce Platform](https://github.com/Mouhamed-Talibi/Ecommerce-Website)  
-**Html5 | Css3 | Php | Mysql**  
-A simple app that handles crud operations for products and their prices. 
-
-### 2. ✍️ [Blog CMS](https://github.com/Mouhamed-Talibi/Blog)  
-**Laravel | CRUD Operations | User Auth | Bootstrap**  
-A dynamic blogging platform with admin controls and responsive design.  
-
-### 3. 🍽️ [Restaurant Management System](https://github.com/Mouhamed-Talibi/Restaurant-mashawi)  
-**PHP | Stock Management | Order Processing | Mysql | Bootstrap | Design Pattern(mvc)**  
-Streamlines reservations, inventory, and customer orders with an intuitive UI.  
-
----
-
 ## 📌 **What’s Next?**  
 
 - 🔥 **Deepening Laravel Expertise**: Exploring advanced Eloquent, APIs, and microservices.  
@@ -57,14 +41,12 @@ Streamlines reservations, inventory, and customer orders with an intuitive UI.
 
 ## 📬 **Let’s Connect!**  
 
-📧 **Email**: [mouhamedtalibi.45@gmail.com](mailto:mouhamedtalibi.45@gmail.com)  
+📧 **Email**: [talibi.mohamed.mt@gmail.com](mailto:talibi.mohamed.mt@gmail.com)  
 💼 **LinkedIn**: [Mouhamed Talibi](https://www.linkedin.com/in/mouhamedtalibi/)  
 🐙 **GitHub**: [Mouhamed-Talibi](https://github.com/Mouhamed-Talibi)  
-📸 **Instagram**: [@easy.code_](https://instagram.com/easy.code_)  
+📸 **Instagram**: [@dev.talibi_](https://www.instagram.com/dev.talibi/)  
 
 ---
 
 ## 💡 **Why Collaborate With Me?**  
 I combine **analytical thinking** with **clean code practices** to build efficient systems. If you’re working on something innovative—or just want to geek out about backend tech—let’s talk!  
-
-⭐ **Fun Challenge**: *Can you break any of my projects? Open an issue if you find a bug!*  
