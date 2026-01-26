@@ -1,16 +1,66 @@
-# 👨‍💻 Mouhamed Talibi | Backend Developer  
+<h2 align="left">Hi 👋! My name is Mouhamed Talibi and I'm a PHP & Laravel Backend Developer, from Morocco</h2>
 
-🚀 **PHP & Laravel Developer | Problem Solver | Tech Enthusiast**  
-📍 Based in Morocco | Building scalable solutions with PHP & Laravel  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mouhamed-Talibi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouhamed-Talibi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🧠 **About Me**  
+###
 
-```json
-{
-    "name": "Mouhamed Talibi",
-    "nationality": "Morocco",
-    "profession": "PHP and Laravel Developer",
-    "description": "Passionate Backend Developer with a strong focus on building scalable and efficient systems. I specialize in PHP and Laravel framework development, creating robust APIs and database architectures. Always eager to learn new technologies and enhance my skills in backend development."
-}
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" height="30" alt="xampp logo"  />
+</div>
+
+###
+
+## 💻 Projects  
+
+### Picksouk — Moroccan E‑Commerce Website
+[🔗 Visit Picksouk](https://picksouk.com/)  
+
+Picksouk is a modern Moroccan e-commerce platform providing a smooth shopping experience. Built with a focus on performance and clean architecture, it handles product catalogs, user accounts, secure order processing, and responsive design for mobile and desktop.  
+
+**Features:**  
+- Secure user authentication  
+- Dynamic product listings  
+- Shopping cart & checkout flow  
+- Admin product management  
+- Mobile-friendly interface  
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mouhamed-Talibi/Mouhamed-Talibi/output/snake.svg" alt="Snake animation" />
